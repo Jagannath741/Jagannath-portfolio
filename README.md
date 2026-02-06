@@ -2,6 +2,8 @@
 
 Personal portfolio website built with **pure HTML, CSS, JavaScript**. Responsive design, contact form, and smooth scrolling. Created in VS Code.[web:17]
 
+🔗 [Click here to view the live app](https://jagannath741.github.io/Jagannath-portfolio/)
+
 ![Hero Screenshot](public/image/Pic1.png) <!-- Replace with your screenshot path -->
 ![Hero Screenshot](public/image/Pic2.png) <!-- Replace with your screenshot path -->
 ![Hero Screenshot](public/image/Pic3.png) <!-- Replace with your screenshot path -->
